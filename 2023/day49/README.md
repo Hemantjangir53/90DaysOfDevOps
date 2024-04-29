@@ -1,7 +1,7 @@
 # Day 49 - INTERVIEW QUESTIONS ON AWS
 
 Hey people, we have listened to your suggestions and we are looking forward to get more!
-As you people have asked to put more interview based questions as part of Daily Task, So here it it :)
+As you people have asked to put more interview-based questions as part of Daily Task, So here it it :)
 
 ## INTERVIEW QUESTIONS:
 
